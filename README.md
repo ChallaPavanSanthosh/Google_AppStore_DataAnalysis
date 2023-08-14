@@ -1,4 +1,4 @@
-# Google_AppStore_DataAnaysis
+# Google_AppStore_DataAnalysis
 
 In this project, Google appstore data analysis takes place.
 
