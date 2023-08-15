@@ -26,3 +26,5 @@ Current Version : Current version of the App.
 Minimum Android version: Minimum Android version of the App.
 
 Genres : Genre of the App belong to.
+
+Thank You
